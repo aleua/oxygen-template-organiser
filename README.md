@@ -22,7 +22,7 @@ Allows for categorising Oxygen templates for better organisation and quicker wor
 
 ## Preview of new category filter, admin column and 'edit categories' link.
 
-<img src="https://user-images.githubusercontent.com/43051571/45732439-a69b3e00-bc1f-11e8-9365-0271712f6fe8.jpg">
+<img src="https://user-images.githubusercontent.com/43051571/50929463-59362b80-14b1-11e9-97fb-711044b1053d.jpg">
 
 ## Changelog ##
 
